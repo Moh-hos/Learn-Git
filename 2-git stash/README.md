@@ -29,10 +29,8 @@ stage is used to prepare changes for the next commit, while stash is used to bac
 
 <div align="center">
 
-| git stage | git stash |
-| --------- | --------- |
-
-|When we use `$ git add ` command
-Changes to git should be included in the next commit | `git stash` is used to back up files if you need to move to another branch while working on a feature or bug fix, we use `git stash` |
+| git stage                                                                             | git stash                                                                                                                            |
+| ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| When we use `$ git add ` command Changes to git should be included in the next commit | `git stash` is used to back up files if you need to move to another branch while working on a feature or bug fix, we use `git stash` |
 
 </div>
